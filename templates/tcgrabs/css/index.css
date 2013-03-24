@@ -1,0 +1,106 @@
+{literal}
+
+/*
+******************************************************
+*
+*    Startseite - Boxen
+*
+*
+*/
+
+
+
+
+.container {
+        width: 270px;
+        min-height: 140px;
+        border: 0px solid #ddd;
+        float: left;
+        margin: 20px 0 0 0 ; padding: 10px 20px;
+        background: #fff url('{/literal}{$imgPath}{literal}300-bg.gif') 0 0 no-repeat;
+
+}
+
+
+
+.container h2 {
+        color: #ff3500;
+        margin: 5px 0px;  padding:  0px;
+        font: normal 17px helvetica;
+        border-bottom: 1px solid #d0d0d0;
+
+}
+
+
+
+.container tt {
+        color: #086FA1;
+        font: bold 12px/12px monospace;
+        margin: 8px 0px -2px 0px;
+        display: block;
+}
+
+
+
+.container.news {
+        margin: 20px 0px 10px 0px;
+        color: red;
+}
+
+
+
+.container.anlass {
+        margin: 20px 0px 10px 30px;
+        color: red;
+}
+
+
+
+.container.sponsor {
+        margin: 20px 0px 10px 30px;
+        color: red;
+}
+
+
+
+.container.newsletter {
+        margin: 20px 0px 10px 0px;
+        color: red;
+}
+
+
+
+.container.newsletter .nlinput {
+        width: 250px;
+        border: 1px solid #bbc;
+        border-top: 1px solid #aab;
+        border-right: 1px solid #aab;
+        background: #fff;
+        padding: 4px; margin: 5px 0px;
+}
+
+
+
+.container.newsletter .nlselect {
+        width: 260px;
+        border: 1px solid #bbc;
+        border-top: 1px solid #aab;
+        border-right: 1px solid #aab;
+        background: #fff;
+        padding: 3px; margin: 5px 0px;
+}
+
+
+
+.container.newsletter .nlsubmit {
+        width: 195px;
+        border: 1px solid #aab;
+        background: #dde url('{/literal}{$imgPath}{literal}menu-bg.gif') 0px -22px repeat-x;
+        padding: 3px; margin: 15px 0px;
+        font: bold 13px helvetica;
+        color: #229900;
+}
+
+
+
+{/literal}

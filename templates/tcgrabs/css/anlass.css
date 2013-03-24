@@ -1,0 +1,26 @@
+{literal}
+
+/*      Anlässe     */
+
+#anlassdaten {
+        position: relative;
+        width: 608px; 
+        background: #f0f0f0 url('{/literal}{$imgPath}{literal}menu-bg.gif') 0px 0px repeat-x;
+        border: 1px solid #ccc; -moz-border-radius: 3px;
+        padding: 10px 20px;
+        font: 12px 'Lucida Sans Unicode', arial;
+}
+
+hr{
+ border: 0px; /* Für Firefox und Opera */
+ border-top: solid 1px #ccc;
+ border-bottom: transparent;
+ margin: 10px 0px;
+ }
+
+
+#anlassdaten table {width: 610px; border-collapse: collapse;  }
+#anlassdaten table td { line-height: 23px; }
+
+
+{/literal}

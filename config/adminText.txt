@@ -1,0 +1,11 @@
+Neue Anmeldung TC-Grabs: <br />
+Name: [FIRSTNAME] [NAME]<br />
+Adresse: [ADRESS]<br />
+Ort: [ZIP] [PLACE]<br />
+E-Mail: [EMAIL]<br />
+Telefon (Privat): [PHONEPRIVATE]<br />
+Telefon (Geschäft): [PHONEGESCH]<br />
+Telefon (Mobile): [PHONEMOBILE]<br />
+Abo: [ABO]<br />
+Geburtstag: [DAY].[MONTH].[YEAR]<br />
+Nationalität: [NATIONAL]

@@ -1,0 +1,19 @@
+{literal}
+#fbbrowser{
+	background: #FFF;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+	line-height: 20px;
+}
+
+ul.fblist{
+	list-style: none;
+	margin-left: 20px;	
+}
+
+ul.fblist li{
+	list-style: none;
+	margin-left: 20px;	
+}
+{/literal}

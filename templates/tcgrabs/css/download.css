@@ -1,0 +1,10 @@
+{literal}
+
+#downloadtabelle  { font: 12px 'Lucida Sans Unicode', arial; width: 650px; border-collapse: collapse; border: 1px solid #ccc; }
+#downloadtabelle th { font: bold 14px 'Lucida Sans Unicode', arial; color: #009900; padding: 0px 10px; background: #f0f0f0 url('{/literal}{$imgPath}{literal}menu-bg.gif') 0px bottom repeat-x; text-align: left; line-height: 30px;}
+#downloadtabelle td { padding: 0px 10px; border-top: 1px solid #eee; line-height:  28px; }
+#downloadtabelle .modulo {background: #ffeeee;}
+#downloadtabelle .center {text-align:center;}
+#downloadtabelle a {color: #086FA1; outline: 0px;}
+
+{/literal}
